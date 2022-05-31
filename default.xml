@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="gitlab" fetch=".." review="https://github.com/Kmnskd/" />
+  <remote name="gitlab" fetch="Kmnskd" review="https://github.com" />
   <default remote="gitlab" revision="baseline"/>
   <project remote="gitlab" name="automationtool" path="flutter/module/UplusModule" groups="gitlab" revision="master"/>
 </manifest>
