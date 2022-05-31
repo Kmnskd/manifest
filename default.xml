@@ -2,6 +2,6 @@
 <manifest>
   <remote name="gitlab" fetch=".." review="https://git.haier.net" />
   <default remote="gitlab" revision="master"/>
-  <project remote="gitlab" name="/uplus/cm/ios_certs" path="/uplus/cm/ios_certs" groups="gitlab" revision="master"/>
+  <project remote="gitlab" name="uplus/cm/ios_certs" path="uplus/cm/ios_certs" groups="gitlab" revision="master"/>
 </manifest>
 
