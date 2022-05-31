@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+   <remote  name="gitee"
+            fetch="https://git.haier.net/uplus/cm"
+            autodotgit="true" />
+   <remote  name="github"
+            fetch="https://github.com/Kmnskd"
+            autodotgit="true" />
+   <default revision="master"
+            remote="gitee" sync-j="2" />
+   <project remote="gitee" path="Kmnskd/ios_certs" name="ios_certs" groups="gitee" revision="master" />
+   <project remote="github" path="Kmnskd/automationtool" name="automationtool" groups="github" revision="master" />
+</manifest>
