@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <remote name="gitlab" fetch=".." review="https://github.com" />
-  <default remote="gitlab" revision="baseline"/>
-  <project remote="gitlab" name="Kmnskd/automationtool" path="Kmnskd/automationtool" groups="gitlab" revision="master"/>
+  <remote name="gitlab" fetch=".." review="https://git.haier.net" />
+  <default remote="gitlab" revision="master"/>
+  <project remote="gitlab" name="/uplus/cm/ios_certs" path="/uplus/cm/ios_certs" groups="gitlab" revision="master"/>
 </manifest>
 
